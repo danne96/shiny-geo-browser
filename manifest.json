@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.12.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "35511f60dddd713d37f3757facf0265f"
+    },
+    "DATA.json": {
+      "checksum": "6fc0e960557c982bfe26f5def82aa98b"
+    },
+    "GENE_ACC.txt": {
+      "checksum": "5de409e5d207f9a1a9c857e9d74d021f"
+    },
+    "GSM2GRP.txt": {
+      "checksum": "16e8777def460d14c6b99c614ac14e6c"
+    },
+    "app.py": {
+      "checksum": "ebc15efafc6939b6feca46afdffa4cdc"
+    },
+    "global_groups.json": {
+      "checksum": "9ecd1d135987c64c90be6b43e9c8d788"
+    }
+  }
+}

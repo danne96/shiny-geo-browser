@@ -1,0 +1,6 @@
+shiny
+matplotlib
+seaborn
+json5
+pandas
+numpy

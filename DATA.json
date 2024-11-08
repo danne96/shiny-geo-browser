@@ -1,6 +1,20 @@
 {
     "GSE100903": {
         "design": "AtNIGT1.2 overexpressor and AtNIGT1.2-VP overepxressor were subjected to microarray analysis to identify Direct Target genes.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 6.18064256466667,
@@ -484,6 +498,20 @@
     },
     "GSE110171": {
         "design": "Six lines with contrasting growth characteristics on low N were used for gene expression analysis, the accessions El-0 and Fei-0, and the mixed RILs KB006, NG064, NG087, SG063. For each line, root and shoot samples were taken from plants grown on 0.4 mM or 9 mM nitrate. Three biological replicates were used per organ and treatment, in total 72 samples. One replicate consisted of a pool of 30 plants harvested from three plates.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 3.94975521970833,
@@ -2605,6 +2633,30 @@
     },
     "GSE114162": {
         "design": "Plants were grown in homogeneous medium containing sufficient nitrogen and the root system was divided in two parts (around day 14 after germination). The plants were transferred in split-root plates (around Day 18) containing 1mM KNO3 on both sides of the plates (C.KNO3) or in heterogeneous media containing 1mM KNO3 on one side and 1mM KCl on the other side (Split). Plants (Col-0, ipt3,5,7 and abcg14) were collected 24hours after the beginning of the treatment. This experiment has been replicated 4 times (4 independent experiments) and in each experiment three plants have been pooled in one sample.",
+        "f_tab": {
+            "GeneID": {
+                "13354130": "842459",
+                "13357349": "843369",
+                "13362417": "839240",
+                "13385690": "843369",
+                "13447115": "820160",
+                "13481868": "825856",
+                "13481878": "825857",
+                "13481887": "825858",
+                "13481896": "825861"
+            },
+            "GeneName": {
+                "13354130": "AtENT7",
+                "13357349": "AtENT1",
+                "13362417": "AtENT8",
+                "13385690": "AtENT1",
+                "13447115": "AtENT2",
+                "13481868": "AtENT6",
+                "13481878": "AtENT3",
+                "13481887": "AtENT4",
+                "13481896": "AtENT5"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "13354130": 2.61982508333333,
@@ -3087,6 +3139,28 @@
     },
     "GSE136542": {
         "design": "Effects of nitrate-inducibility of AO gene on gene expression in Arabidopsis thaliana was assessed using transgenic lines expressing AO gene from the wild-type or nitrate-non-inducible mutated AO promoter. Hydroponically-grown transgenic plants (0d) were subjected to 3-day nitrogen-starvation treatment (Nstarvation3d) and then grown with 10 mM nitrate-containing solution for 24 hours (resupply).",
+        "f_tab": {
+            "GeneID": {
+                "11634": "825858",
+                "12239": "825857",
+                "25656": "843369",
+                "3340": "820160",
+                "35284": "825856",
+                "42673": "842459",
+                "6399": "825861",
+                "9563": "839240"
+            },
+            "GeneName": {
+                "11634": "AtENT4",
+                "12239": "AtENT3",
+                "25656": "AtENT1",
+                "3340": "AtENT2",
+                "35284": "AtENT6",
+                "42673": "AtENT7",
+                "6399": "AtENT5",
+                "9563": "AtENT8"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "11634": -2.52526552463467,
@@ -3466,6 +3540,28 @@
     },
     "GSE152411": {
         "design": "The wild-type Columbia and the nlp2 mutant were grown under a nitrate-free condition and treated with 10 mM KNO3 or KCl (control) for 1 hour",
+        "f_tab": {
+            "GeneID": {
+                "11634": "825858",
+                "12239": "825857",
+                "25656": "843369",
+                "3340": "820160",
+                "35284": "825856",
+                "42673": "842459",
+                "6399": "825861",
+                "9563": "839240"
+            },
+            "GeneName": {
+                "11634": "AtENT4",
+                "12239": "AtENT3",
+                "25656": "AtENT1",
+                "3340": "AtENT2",
+                "35284": "AtENT6",
+                "42673": "AtENT7",
+                "6399": "AtENT5",
+                "9563": "AtENT8"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "11634": -3.37096866202246,
@@ -3695,6 +3791,20 @@
     },
     "GSE185085": {
         "design": "Three genotypes wild type (Col-0), atg5-3 mutant  (SALK_02060) and atg9 (SALK_130796) were grown under high nitrate (HN) for 30 days (T30) or low nitrate LN conditions for 30 days (T30) and 60 days (T60). Two consecutive cultures (C1 and C2) were performed at several month interval. For the two cultures and each genotype, rosettes of >6 plants were harvested  and mixed to extract RNA.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 6.4336518412484,
@@ -3992,6 +4102,28 @@
     },
     "GSE186155": {
         "design": "5 day-old Arabidopsis Col-0 wild-type and hb52-KO were treated with 10 mM KNO3 or 10 mM KCl (control) for 1 day.",
+        "f_tab": {
+            "GeneID": {
+                "11634": "825858",
+                "12239": "825857",
+                "25656": "843369",
+                "3340": "820160",
+                "35284": "825856",
+                "42673": "842459",
+                "6399": "825861",
+                "9563": "839240"
+            },
+            "GeneName": {
+                "11634": "AtENT4",
+                "12239": "AtENT3",
+                "25656": "AtENT1",
+                "3340": "AtENT2",
+                "35284": "AtENT6",
+                "42673": "AtENT7",
+                "6399": "AtENT5",
+                "9563": "AtENT8"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "11634": 7.26396928822909,
@@ -4221,6 +4353,20 @@
     },
     "GSE18818": {
         "design": "9-day old Arabidopsis seedlings were harvested for RNA extraction and hybridization on Affymetrix microarrays. Total RNA was prepared separately from three biological replicates of N-limited LBD37OX, LBD38OX and WT seedlings, and N-replete lbd37-1 mutant, lbd38 mutant and WT seedlings (18 samples).",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 5.77844447183333,
@@ -4452,6 +4598,20 @@
     },
     "GSE18984": {
         "design": "8 samples were used in this experiment",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 4.65541982870767,
@@ -4569,6 +4729,20 @@
     },
     "GSE20044": {
         "design": "26 Samples: 2 at time 0 with no treatment; 4 at time 3, 2 with KCL and 2 with KNO3 treatment; 4 at time 6, 2 with KCL and 2 with KNO3 treatment; 4 at time 9, 2 with KCL and 2 with KNO3 treatment; 4 at time 12, 2 with KCL and 2 with KNO3 treatment; 4 at time 15, 2 with KCL and 2 with KNO3 treatment;  4 at time 20, 2 with KCL and 2 with KNO3 treatment;",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 7.25589416719462,
@@ -5226,6 +5400,28 @@
     },
     "GSE216293": {
         "design": "Gene expression in whole roots of Arabidopsis thaliana was measured after transferring seven-day-old seedlings for 0, 1, 2 and 4 days to 11.4 mM nitrogen (N-sufficient; control) or 0.55 mM nitrogen (mild N deficiency). Three biological replicates were used.",
+        "f_tab": {
+            "GeneID": {
+                "A_84_P11894": "825857",
+                "A_84_P12740": "839240",
+                "A_84_P13784": "825858",
+                "A_84_P145839": "843369",
+                "A_84_P14729": "825861",
+                "A_84_P17033": "842459",
+                "A_84_P594550": "820160",
+                "A_84_P762923": "825856"
+            },
+            "GeneName": {
+                "A_84_P11894": "AtENT3",
+                "A_84_P12740": "AtENT8",
+                "A_84_P13784": "AtENT4",
+                "A_84_P145839": "AtENT1",
+                "A_84_P14729": "AtENT5",
+                "A_84_P17033": "AtENT7",
+                "A_84_P594550": "AtENT2",
+                "A_84_P762923": "AtENT6"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "A_84_P11894": 6.30895752380952,
@@ -5695,6 +5891,20 @@
     },
     "GSE228403": {
         "design": "From the first week to the fifth week after sowing, a 25 ml of 1 mM oxidized glutathione (GSSG), 2 mM reduced glutathione (GSH) and 3 mM NH3NO4 aqueous solution per pot were applied by subirrigation once a week. Plants grown by water were used as control. The aerial parts including the shoot apical were harvested 3 weeks after sowing, and the second and third leaf blades from the top of the fully expanded leaves were harvested 4 and 5 weeks after sowing. Twelve samples. Two replicates for each samples.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 6.7291038988159,
@@ -6268,6 +6478,20 @@
     },
     "GSE29589": {
         "design": "Arabidopsis thaliana (Col-0) plants were grown hydroponically until they reached growth stage 5.10. They were then transferred to a nitrogen-free medium for 26 hr and then supplied with 1 mM nitrate or 1 mM ammonium. RNA isolation (and subsequent microarray analysis) was performed on root tissue isolated just before nitrogen supply (time 0) and at 1.5 hr and 8 hr after nitrogen supply (1.5 hr nitrate, 8 hr nitrate, 1.5 hr ammonium, 8 hr ammonium).",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 6.8022728,
@@ -6451,6 +6675,20 @@
     },
     "GSE35544": {
         "design": "Arabidopsis seedlings of the Ws and afb3-1 genotypes were grown on hydroponic medium containing 1X MS salts without Nitrogen, supplemented with 0.5 mM ammonium succinate as Nitrogen source and 3 mM sucrose on a Percival chamber under a photoperiod of 16 hours of light (100 \u03bcE/m2/sec) and 8 hours of dark at 22\u00b0C for 14 days. The plants were treated at the onset of the light cycle with 5 mM KNO3 or 5 mM KCl as control for 2 hours. Whole roots were cut from seedlings and frozen on liquid Nitrogen. Total RNA was extracted using the TriZol reagent. 3 independent biological replicates were performed.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 3.4983969155,
@@ -6592,6 +6830,20 @@
     },
     "GSE43011": {
         "design": "Arabidopsis seedlings of the Col-0 and tga1/tga4 genotypes were grown on hydroponic medium containing 1X MS salts without Nitrogen, supplemented with 0.5 mM ammonium succinate as Nitrogen source and 3 mM sucrose on a Percival chamber under a photoperiod of 16 hours of light (100 \u03bcE/m2/sec) and 8 hours of dark at 22\u00b0C for 14 days. The plants were treated at the onset of the light cycle with 5 mM KNO3 or 5 mM KCl as control for 2 hours. Whole roots were cut from seedlings and frozen on liquid Nitrogen. Total RNA was extracted using the TriZol reagent. 3 independent biological replicates were performed.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 1.40538125083333,
@@ -6733,6 +6985,20 @@
     },
     "GSE71737": {
         "design": "In order to study the effect of 5 signaling molecules we developed a matrix of treatment including NO3- (1mM or 0.5mM), NH4+ (1mM, or 0.5mM), indol-acetic-acid (IAA: 500 nM), Kinetin (CK: 500 nM), abscisic acid (ABA: 1\u00b5M). When present, the overall nitrogen treatment has been maintained to 1mM. As such, when NO3- and NH4+ are present in the same media their concentration was divided by 2. Proper mock controls include KCl, and DMSO. Plants are grown on NH4+-succinate for 12 to 14 days (first visible true leaves). Transferred 24 hours on a refreshed N-free media (reset the background that may be exhausted in several elements), and then transferred toward fresh media containing combinations of signals. Plant roots are harvested after 4 hours of treatment for gene expression analysis.\n\nPlease note that the treatment details for each sample were provided in the sample 'characteristics' column in 'NO-NH-IA-CK-AB' format followed by the Presence/Absence code used for each hormone/nutrient.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 5.49534450383106,
@@ -10126,6 +10392,20 @@
     },
     "GSE76278": {
         "design": "14 samples consisting of three replicates, 2 samples consisting of 2 replicates. WT (Col-0) and wrky1 mutant lines: steady treatment is on full MS media under long day; N treatment (KCl control or KNO3 + NH4NO3 treatment); light treatment (normal light control or dark treatment); combination treatment is N and light.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 5.29577744997826,
@@ -11155,6 +11435,20 @@
     },
     "GSE9148": {
         "design": "Three biological replicates of 10-day-old Arabidopsis root tissue from wild-type and chl1-5 plants were performed to explore differences  in gene expression between the wild-type and chl1-5 mutants exposed to 25 mM nitrate for 0h (T0) or 0.5h (T0.5) using Affymetrix ATH1 microarray.",
+        "f_tab": {
+            "GeneID": {
+                "255261_s_at": "825856",
+                "255262_at": "825861",
+                "264316_at": "843369",
+                "265064_at": "842459"
+            },
+            "GeneName": {
+                "255261_s_at": "AtENT6",
+                "255262_at": "AtENT5",
+                "264316_at": "AtENT1",
+                "265064_at": "AtENT7"
+            }
+        },
         "f_tt": {
             "AveExpr": {
                 "255261_s_at": 6.05968504036359,
